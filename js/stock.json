@@ -1,0 +1,137 @@
+[
+    {
+       "id":1,
+       "nombre":"Brangus Coloradas",
+       "tipo":"Bovino",
+       "descripcion":"Terneras de 1 año",
+       "precio":550000,
+       "unidad":"un",
+       "img":"./img/branguscolos.jpg"
+    },
+    {
+       "id":2,
+       "nombre":"Braford",
+       "tipo":"Bovino",
+       "descripcion":"Terneros Braford",
+       "precio":550000,
+       "unidad":"un",
+       "img":"./img/braford-.jpg"
+    },
+    {
+       "id":3,
+       "nombre":"Vaquillonas Brahman",
+       "tipo":"Bovino",
+       "descripcion":"vaquillonas de cuatro años",
+       "precio":850000,
+       "unidad":"un",
+       "img":"./img/brahman.jpg"
+    },
+    {
+       "id":4,
+       "nombre":"Terneros Limousin",
+       "tipo":"Bovino",
+       "descripcion":"Terneros de un año",
+       "precio":550000,
+       "unidad":"un",
+       "img":"./img/limousin.jpg"
+    },
+    {
+       "id":5,
+       "nombre":"Brangus Negros",
+       "tipo":"Bovino",
+       "descripcion":"Terneros de un año brangus",
+       "precio":550000,
+       "unidad":"un",
+       "img":"./img/brangusovero.jpg"
+    },
+    {
+       "id":6,
+       "nombre":"Vaquillonas Shorton",
+       "tipo":"Bovino",
+       "descripcion":"Vaquillonas servidas",
+       "precio":650000,
+       "unidad":"un",
+       "img":"./img/shorton.jpg"
+    },
+    {
+       "id":7,
+       "nombre":"Yeguas de polo",
+       "tipo":"Caballos",
+       "descripcion":"La genetica que buscas esta aca",
+       "precio":1500000,
+       "unidad":"un",
+       "img":"./img/yegua.polo.jpg"
+    },
+    {
+       "id":8,
+       "nombre":"Caballos de paso peruano",
+       "tipo":"Caballos",
+       "descripcion":"Los mejores ejemplares del pais",
+       "precio":600000,
+       "unidad":"un",
+       "img":"./img/cabaperuano.jpg"
+    },
+    {
+       "id":9,
+       "nombre":"Caballo Criollo",
+       "tipo":"Caballos",
+       "descripcion":"Caballos Puros",
+       "precio":750000,
+       "unidad":"un",
+       "img":"./img/caballocriollo.jpg"
+    },
+    {
+       "id":10,
+       "nombre":"Vaquillonas Criollas",
+       "tipo":"Bovino",
+       "descripcion":"Vaquillonas del norte argentino ",
+       "precio":400000,
+       "unidad":"un",
+       "img":"./img/criollas.jpg"
+    },
+    {
+       "id":11,
+       "nombre":"Caballos Percherones",
+       "tipo":"Caballos",
+       "descripcion":"Caballos de un año percherones",
+       "precio":680000,
+       "unidad":"un",
+       "img":"./img/percheron.jpg"
+    },
+    {
+       "id":12,
+       "nombre":"Soja",
+       "tipo":"Granos",
+       "descripcion":"1 Un = 50 ton",
+       "precio":100000,
+       "unidad":"Un",
+       "img":"./img/soja.jpg"
+    },
+    {
+       "id":13,
+       "nombre":"Trigo",
+       "tipo":"Granos",
+       "descripcion":"1 Un = 50 ton",
+       "precio":120000,
+       "unidad":"Un",
+       "img":"./img/trigo.jpg"
+    },
+    {
+       "id":14,
+       "nombre":"Terneras Holandas",
+       "tipo":"Bovino",
+       "descripcion":"La mejores terneras para tu tambo",
+       "precio":750000,
+       "unidad":"un",
+       "img":"./img/holanda.jpg"
+    },
+    {
+       "id":15,
+       "nombre":"Cebada",
+       "tipo":"Granos",
+       "descripcion":"1 Un = 50 ton",
+       "precio":260000,
+       "unidad":"Un",
+       "img":"./img/cebada.jpg"
+    }
+ ]
